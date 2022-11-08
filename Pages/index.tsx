@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../Components/Header'
-import Timeline from '../Components/Timeline'
-import { CSSReset } from '../Styles/CSSReset'
 import Menu from '../Styles/Homepage/Menu.js'
+import Header from '../Components/Header.js'
+import Timeline from '../Components/Timeline.js'
+import { CSSReset } from '../Styles/CSSReset'
 import Home from '../Styles/Homepage/Home.js'
 import Profiles from '../Components/Favprofiles'
 
