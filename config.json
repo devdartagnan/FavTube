@@ -129,5 +129,15 @@
                 "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
             }
         ]
+    },
+    "perfis":{
+        "devdartagnan": {
+            "git": "devdartagnan",
+            "url" :"@devdartagnan"
+        },
+        "random-profile":{
+            "git": "omariosouto",
+            "url" :"@omariosouto"
+        }
     }
 }

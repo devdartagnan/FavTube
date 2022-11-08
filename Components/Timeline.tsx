@@ -1,6 +1,6 @@
 import React from 'react'
 import config from '../config.json'
-import {StyledTimeline} from '../Styles/Timeline.js'
+import {StyledTimeline} from '../Styles/Homepage/Timeline.js'
 import {uuid as uuidv4 } from 'uuidv4'
 
 export default function Timeline() {

@@ -1,5 +1,5 @@
 import React from 'react'
-import StyledHeader from '../Styles/Header.js'
+import StyledHeader from '../Styles/Homepage/Header.js'
 import config from '../config.json'
 
 export default function Header() {
